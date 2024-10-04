@@ -36,8 +36,10 @@ CloudScape Pro is a powerful, user-friendly image processing application that en
 
 # Screenshots
 
-<img width="1440" alt="Screenshot 2024-10-04 at 2 10 44 PM" src="https://github.com/user-attachments/assets/5cc64bf1-e96a-450c-af80-b00833258249">
+<img width="1440" alt="Screenshot 2024-10-04 at 2 24 57 PM" src="https://github.com/user-attachments/assets/edccf117-f799-4ca8-b712-0a737c7371f2">
 
 <img width="315" alt="Screenshot 2024-10-04 at 2 10 52 PM" src="https://github.com/user-attachments/assets/62242085-abb6-48f2-977f-19920fd9ce04">
 
-<img width="1440" alt="Screenshot 2024-10-04 at 2 11 04 PM" src="https://github.com/user-attachments/assets/7134cc0c-4511-4d72-b656-9708b9bfd3ea">
+<img width="1438" alt="Screenshot 2024-10-04 at 2 26 55 PM" src="https://github.com/user-attachments/assets/092df055-4d52-4d46-b87d-f187cc9d42e2">
+
+
