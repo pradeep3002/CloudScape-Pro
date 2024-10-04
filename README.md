@@ -3,7 +3,7 @@ CloudScape Pro is a powerful, user-friendly image processing application that en
 
 # ✨ Features
 
-Advanced Image Enhancement
+**Advanced Image Enhancement**
 
 • Brightness and Contrast Adjustment
 
@@ -14,7 +14,7 @@ Advanced Image Enhancement
 • Custom Rotation
 
 
-Professional Filters
+**Professional Filters**
 
 • Vintage Effect
 
@@ -25,7 +25,7 @@ Professional Filters
 • Edge Detection
 
 
-Batch Processing
+**Batch Processing**
 
 • Process multiple images
 
